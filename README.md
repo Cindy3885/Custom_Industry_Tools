@@ -98,6 +98,10 @@ Planned areas include:
 
 Additional tools will be documented as they become available.
 
+# View the Fuel Trip & Profitability Calculator here:
+
+(https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management)
+
 ---
 
 ### 3.3 Future Industry Collections
